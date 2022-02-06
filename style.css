@@ -1,0 +1,16 @@
+
+
+ .top{
+   margin-left: 75%;
+  }
+ .top a{
+     margin-left: 20px;
+     color: black;
+ }
+ a :hover{
+    text-decoration-style: none;
+     }
+     .one{
+         background-image: url("stds.jpg");
+         background-size: 100% 100%;
+     }
